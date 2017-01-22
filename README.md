@@ -1,3 +1,4 @@
 # hello-world
-Hello
-How is it going?
+Hello Everybody,
+
+I am new to this world and am looking forward to work on some machine learning project.
